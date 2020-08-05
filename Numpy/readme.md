@@ -4,7 +4,7 @@ NumPy is the fundamental package for scientific computing in Python. It is a Pyt
 ## How to work with Numpy
 Since Numpy can be directly install with python install package
 ```bash
-pip install foobar
+pip install numpy
 ```
 or you can directly install using anaconda.
 
