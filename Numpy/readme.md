@@ -16,24 +16,24 @@ I have created jupyter notebook file for Numpy operations. You can refer it as c
 
 
 ## What these files will contains
-'Numpy Array Creation', 
-'Numpy Arrays Vs Python Lists', 
-'Methods Related to shapes and Dimensions', 
-'Indexing and Slicing', 
-'Fancy Indexing', 
-'ones, Zeros, Empty, None', 
-'Coping', 
-'Logical Operators', 
-'Stacking of Arrays', 
-'Dtype and Structure Arrays or Records', 
-'Numpy for Probabilities', 
-'Array Properties', 
-'thresholding, counting and op imp to img operations', 
-'Save and Load Numpy Arrays', 
-'Masked arrays, it'property and operations',
-'Linear Algebra Operations using Numpy'
+*Numpy Array Creation
+*Numpy Arrays Vs Python Lists
+*Methods Related to shapes and Dimensions of an array 
+*Indexing and Slicing in array
+*Fancy Indexing
+*arrays with ones, Zeros, Empty, None
+*Coping arays
+*Logical Operators 
+*Stacking of Arrays
+*Dtype and Structure Arrays or Records
+*Numpy for Probabilities
+*Array Properties
+*thresholding, counting and op imp to img operations 
+*Save and Load Numpy Arrays
+*Masked arrays, it'property and operations
+*Linear Algebra Operations using Numpy
 
 
 
-###Special thanks to
+### Special thanks to
 official numpy documentation https://numpy.org/doc/
